@@ -34,8 +34,8 @@ The October Challenge version was released under the name "Sphere" and contained
 [Sphere Download Page](https://pusty.itch.io/sphere)
 [Spinning Download Page](https://pusty.itch.io/spinning)
 
-![Screenshot1](/readme/Sphere_0.png)
-![Screenshot2](/readme/Sphere_1.png)
+[![Screenshot1](/readme/Sphere_0.png)]
+[![Screenshot2](/readme/Sphere_1.png)]
 (Screenshots of Sphere)
 #### Gameplay:
 "[![Sphere Gameplay](https://img.youtube.com/vi/8Dyw8Y5eB-c/0.jpg)](https://www.youtube.com/watch?v=8Dyw8Y5eB-c)"
